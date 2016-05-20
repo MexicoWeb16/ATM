@@ -7,7 +7,7 @@ package atm;
 
 /**
  *
- * @author Owner
+ * @author Agustino Flores
  */
 public abstract class Account 
 {
