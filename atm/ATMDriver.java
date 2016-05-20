@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Owner
+ * @author Agustino Flores
  */
 public class ATMDriver 
 {
