@@ -11,7 +11,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Us
+ * @author Agustino Flores
  */
 public class ATM 
 {
