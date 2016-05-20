@@ -7,7 +7,7 @@ package atm;
 
 /**
  *
- * @author Us
+ * @author Agustino Flores
  */
 public class SavingsAccount extends Account
 {
